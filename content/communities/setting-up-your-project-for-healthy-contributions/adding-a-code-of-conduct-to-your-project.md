@@ -1,3 +1,5 @@
+[GitHub-Mark.zip](https://github.com/github/docs/files/8460168/GitHub-Mark.zip)
+[Pinboard 4.pdf](https://github.com/github/docs/files/8460169/Pinboard.4.pdf)
 ---
 title: Adding a code of conduct to your project
 intro: 'Adopt a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse.'
