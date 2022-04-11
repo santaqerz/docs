@@ -1,3 +1,4 @@
+[logs_758.zip](https://github.com/github/docs/files/8460905/logs_758.zip)
 ---
 title: Adding a new SSH key to your GitHub account
 intro: 'To configure your account on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} to use your new (or existing) SSH key, you''ll also need to add the key to your account.'
